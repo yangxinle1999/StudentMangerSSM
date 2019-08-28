@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="uml:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="957d97f2-aefd-4dcf-a186-dc8b041ef3f9" name="Default Changelist" comment="将学生管理系统推送到git">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/pc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/com/contextPath/PictureCheckCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/com/controller/umlController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/com/dao/uml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/com/entity/course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/com/entity/guanliyuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/com/entity/jiafenxiang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/com/entity/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/com/entity/teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/com/entity/xuanke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/com/service/Impl/umlServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/com/service/umlService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/com/tuPianShangChuan/wenJianShangChuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/uml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatisconfiger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jQuery/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jQuery/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jQuery/jquery-1.12.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jQuery/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/administrator/adminZhuCe.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/administrator/administrator.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/administrator/dengLuSuc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/administrator/pasChangeCg.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/administrator/pasChangeSb.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/administrator/shenheJiaFengXiang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/changePassword.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/changePassword1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/changePassword2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/course/addCourseSc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/css/combo.select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/css/mystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/css/zhuce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/dengLuFail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/denglu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/fail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/font/Semibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/font/正文宋楷.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/frameMain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/img/blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/img/green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/img/horse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/img/next1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/img/prev1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/img/timg (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/img/tubiao.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/js/easeljs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/js/formTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/js/jquery-1.12.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/js/jquery.combo.select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/js/myjavascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/SjiaFenXiang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/basicStudent.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/course.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/denglusuc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/jiaFenSb.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/jiaFenSc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/jiaFenXiang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/pasChangeCg.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/pasChangeSb.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/studentSubmit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/suc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/addCourse.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/basicTeacher.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/course.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/dengLuSuc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/pasChangeCg.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/pasChangeSb.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/teacher.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/teacherSubmit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/contextPath/PictureCheckCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/controller/umlController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dao/uml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/entity/course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/entity/guanliyuan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/entity/jiafenxiang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/entity/student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/entity/teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/entity/xuanke.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/service/Impl/umlServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/service/umlService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tuPianShangChuan/wenJianShangChuan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/uml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatisconfiger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/contextPath/PictureCheckCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/controller/umlController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/dao/uml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/entity/course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/entity/guanliyuan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/entity/jiafenxiang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/entity/student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/entity/teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/entity/xuanke.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/service/Impl/umlServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/service/umlService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/tuPianShangChuan/wenJianShangChuan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/mapper/uml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/mybatisconfiger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/spring/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/spring/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/activation-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/aspectjrt-1.8.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/c3p0-0.9.5-pre8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/commons-lang-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/gson-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/json-lib-2.3-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jsp-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jsqlparser-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/mail-1.4.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/mchange-commons-java-0.2.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.35.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/pagehelper-5.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/poi-3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.7.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.3.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.3.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-test-4.3.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.3.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jQuery/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jQuery/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jQuery/jquery-1.12.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jQuery/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/administrator/adminZhuCe.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/administrator/administrator.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/administrator/dengLuSuc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/administrator/pasChangeCg.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/administrator/pasChangeSb.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/administrator/shenheJiaFengXiang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/changePassword.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/changePassword1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/changePassword2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/course/addCourseSc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/css/combo.select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/css/mystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/css/zhuce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/dengLuFail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/denglu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/fail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/font/Semibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/font/正文宋楷.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/frameMain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/img/blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/img/green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/img/horse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/img/next1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/img/prev1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/img/timg (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/img/tubiao.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/js/easeljs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/js/formTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/js/jquery-1.12.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/js/jquery.combo.select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/js/myjavascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/SjiaFenXiang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/basicStudent.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/course.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/denglusuc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/jiaFenSb.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/jiaFenSc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/jiaFenXiang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/pasChangeCg.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/pasChangeSb.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/studentSubmit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/suc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/addCourse.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/basicTeacher.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/course.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/dengLuSuc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/pasChangeCg.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/pasChangeSb.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/teacher.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/teacherSubmit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/com/dao/uml.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/css/mystyle.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="135" column="11" lean-forward="true" selection-start-line="135" selection-start-column="11" selection-end-line="135" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/denglu.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/css/zhuce.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/fail.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/suc.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/dengLuFail.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/dengLuSuc.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/dengLuFail.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/administrator/dengLuSuc.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/teacher/dengLuSuc.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/dengLuSuc.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/student/denglusuc.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatisconfiger.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/student/basicStudent.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/changePassword.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/student/pasChangeSb.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/student/pasChangeCg.jsp" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/entity/student.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/entity/teacher.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/student/studentSubmit.jsp" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/entity/jiafenxiang.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/student/jiaFenXiang.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/student/jiaFenSb.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/student/jiaFenSc.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/teacher/pasChangeCg.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/teacher/pasChangeSb.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/changePassword1.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/teacher/basicTeacher.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/teacher/teacherSubmit.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/administrator/adminZhuCe.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/administrator/pasChangeCg.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/administrator/pasChangeSb.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/changePassword2.jsp" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/entity/guanliyuan.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/teacher/addCourse.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/course/addCourseSc.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/student/SjiaFenXiang.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/student/student.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/teacher/course.jsp" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/entity/xuanke.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/entity/course.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/student/course.jsp" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/dao/uml.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/uml.xml" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/service/umlService.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/service/Impl/umlServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/controller/umlController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/teacher/student.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/teacher/teacher.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/administrator/shenheJiaFengXiang.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/administrator/administrator.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/360CloudUI/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\360CloudUI\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="uml" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="951" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="uml" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="uml" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="uml" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="uml" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="uml" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="uml" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="uml" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="uml" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="uml" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="uml" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="uml" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="uml" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dao" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="uml" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="uml" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="uml" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="uml" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566985005540" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tuPianShangChuan" />
+      <recent name="com.contextPath" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\Desktop\uml\src\main\webapp\jsp\administrator" />
+      <recent name="C:\Users\pc\Desktop\uml\src\main\webapp\jsp" />
+      <recent name="C:\Users\pc\Desktop\uml\src\main\webapp\jsp\teacher" />
+      <recent name="C:\Users\pc\Desktop\uml\src\main\webapp\jsp\student" />
+      <recent name="C:\Users\pc\Desktop\uml\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <file path="E:/image">
+          <settings>
+            <option name="CONTEXT_PATH" value="/image" />
+          </settings>
+        </file>
+        <artifact name="uml:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_uml" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9995" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="uml:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="957d97f2-aefd-4dcf-a186-dc8b041ef3f9" name="Default Changelist" comment="" />
+      <created>1559376530731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559376530731</updated>
+      <workItem from="1559376535371" duration="3597000" />
+      <workItem from="1559393819680" duration="4383000" />
+      <workItem from="1559450725029" duration="2231000" />
+      <workItem from="1559468757962" duration="358000" />
+      <workItem from="1559469130324" duration="14536000" />
+      <workItem from="1559535742052" duration="24218000" />
+      <workItem from="1559646274958" duration="1450000" />
+      <workItem from="1559648811331" duration="8583000" />
+      <workItem from="1559709518997" duration="140000" />
+      <workItem from="1559709683329" duration="2100000" />
+      <workItem from="1559735930938" duration="3837000" />
+      <workItem from="1559798808313" duration="2254000" />
+      <workItem from="1560154366389" duration="398000" />
+      <workItem from="1560411122641" duration="2361000" />
+      <workItem from="1560906117420" duration="1565000" />
+      <workItem from="1562378470283" duration="1301000" />
+      <workItem from="1563003356228" duration="1324000" />
+      <workItem from="1566782353761" duration="559000" />
+      <workItem from="1566823153938" duration="66000" />
+      <workItem from="1566882700637" duration="559000" />
+      <workItem from="1566955204428" duration="647000" />
+      <workItem from="1566982982373" duration="732000" />
+      <workItem from="1566983850241" duration="151000" />
+      <workItem from="1566984137878" duration="1199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78549000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.26226014" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50053304" side_tool="true" weight="0.54333335" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info active="true" anchor="bottom" id="Messages" order="5" visible="true" weight="0.23136818" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49946696" weight="0.27030033" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.24777777" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="将学生管理系统推送到git" />
+    <option name="LAST_COMMIT_MESSAGE" value="将学生管理系统推送到git" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatisconfiger.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="56" lean-forward="true" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/teacher/dengLuSuc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="86" lean-forward="true" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/css/zhuce.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1145">
+          <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/tuPianShangChuan/wenJianShangChuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/student/denglusuc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/student/jiaFenSb.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/student/jiaFenSc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="80" lean-forward="true" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/denglu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/student/pasChangeCg.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="83" selection-start-line="9" selection-start-column="83" selection-end-line="9" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/teacher/pasChangeCg.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="80" lean-forward="true" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/teacher/pasChangeSb.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="86" lean-forward="true" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/teacher/basicTeacher.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/student/pasChangeSb.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/teacher/teacherSubmit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="78" column="72" lean-forward="true" selection-start-line="78" selection-start-column="72" selection-end-line="78" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/administrator/adminZhuCe.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="27" column="61" lean-forward="true" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/changePassword.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/student/studentSubmit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1610">
+          <caret line="27" column="112" lean-forward="true" selection-start-line="27" selection-start-column="112" selection-end-line="27" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/changePassword1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="12" column="115" selection-start-line="12" selection-start-column="115" selection-end-line="12" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/changePassword2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/student/basicStudent.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="65" column="7" lean-forward="true" selection-end-line="65" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/student/jiaFenXiang.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="27" column="95" lean-forward="true" selection-start-line="27" selection-start-column="95" selection-end-line="27" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/course/addCourseSc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="73" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/teacher/addCourse.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="27" column="78" lean-forward="true" selection-start-line="27" selection-start-column="78" selection-end-line="27" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/student/SjiaFenXiang.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="188" column="24" selection-start-line="188" selection-start-column="24" selection-end-line="188" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/student/student.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-793">
+          <caret line="71" column="92" selection-start-line="71" selection-start-column="92" selection-end-line="71" selection-end-column="92" />
+          <folding>
+            <element signature="n#style#0;n#font#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/teacher/course.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="211" column="6" lean-forward="true" selection-start-line="191" selection-end-line="211" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/entity/course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/entity/teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/entity/jiafenxiang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/entity/guanliyuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/entity/student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="e#1347#1348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/controller/umlController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10410">
+          <caret line="363" column="33" selection-start-line="363" selection-start-column="21" selection-end-line="363" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/teacher/teacher.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2130">
+          <caret line="71" column="92" selection-start-line="71" selection-start-column="92" selection-end-line="71" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/administrator/shenheJiaFengXiang.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6840">
+          <caret line="228" column="27" selection-start-line="228" selection-start-column="27" selection-end-line="228" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/student/course.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="212" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/teacher/student.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6060">
+          <caret line="202" column="72" selection-start-line="202" selection-start-column="72" selection-end-line="202" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/pc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/administrator/pasChangeSb.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="86" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/administrator/pasChangeCg.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="80" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/administrator/dengLuSuc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="98" selection-start-line="9" selection-start-column="98" selection-end-line="9" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/administrator/administrator.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/uml.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="65" column="28" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/entity/xuanke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/service/umlService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/service/Impl/umlServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="76" column="38" selection-start-line="76" selection-start-column="38" selection-end-line="76" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1972#1973#0" expanded="true" />
+            <element signature="e#2016#2017#0" expanded="true" />
+            <element signature="e#2157#2158#0" expanded="true" />
+            <element signature="e#2199#2200#0" expanded="true" />
+            <element signature="e#2246#2247#0" expanded="true" />
+            <element signature="e#2293#2294#0" expanded="true" />
+            <element signature="e#2337#2338#0" expanded="true" />
+            <element signature="e#2384#2385#0" expanded="true" />
+            <element signature="e#2435#2436#0" expanded="true" />
+            <element signature="e#2480#2481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="135" column="11" lean-forward="true" selection-start-line="135" selection-start-column="11" selection-end-line="135" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/dao/uml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/css/mystyle.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>uml:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>uml</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml.jackson.core:jackson-annotations:2.5.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

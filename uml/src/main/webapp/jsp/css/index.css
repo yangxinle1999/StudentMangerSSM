@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Semibold;
+    list-style: none;
+}
+body,p,h1,h2,h3,h4,h5,h6,ul,ol,dl,dd,a{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+@font-face {
+    font-family:Semibold;
+    src: url("../font/Semibold.ttf") ;
+}
+.head{
+    font-family: Semibold;
+    font-size: 70px;
+    margin-top: 100px;
+    text-align: center;
+}
+.main{
+    margin: 100px auto;
+}
+.main input{
+    outline: none;
+    width: 500px;
+    height: 50px;
+    display: block;
+    border-radius: 15px;
+    border:1px solid black;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.main input:nth-child(4){
+    border-radius: 25px;
+    width: 100px;
+    display: inline;
+    background-color: rgba(255,255,255,0.7);
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.main input:nth-child(5){
+    border-radius: 25px;
+    width: 100px;
+    display: inline;
+    background-color: rgba(255,255,255,0.7);
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.main .main-checkbox{
+    float: right;
+    width: 20px;
+    height: 20px;
+    background: rgba(61, 78, 66, 0.7);
+    border-radius: 50%;
+    position: relative;
+    margin: 5px 0 5px 5px;
+    border: 1px solid rgba(61, 78, 66, 0.7);
+    display: inline-block;
+}
+.main .text{
+    float: right;
+    margin-left: 7px;
+    line-height: 20px;
+    padding-top: 5px;
+    text-transform: capitalize;
+}
+.main .main-checkbox input{
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+}
+.main .main-checkbox label{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+}
+.main .main-checkbox label:after{
+    content: "";
+    width: 10px;
+    height: 5px;
+    position: absolute;
+    top: 5px;
+    left: 4px;
+    border: 3px solid #dae8d8;
+    border-top: none;
+    border-right: none;
+    background: transparent;
+    opacity: 0;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+.main .main-checkbox input[type=radio]{
+    visibility: hidden;
+}
+.main .main-checkbox input[type=radio]:checked + label:after{
+    opacity: 1;
+}
+.black_overlay{
+    display: none;
+    background-color: black;
+    opacity: .6;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1001;
+}
+.white_content{
+    display: none;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    width: 40%;
+    height: 65%;
+    background-color: rgba(255, 245, 245, 0.6);
+    z-index: 1002;
+    overflow: auto;
+    font-size: 20px;
+}
+.white_content img{
+    width: 35px;
+    height: auto;
+    float: right;
+}
+.white_content input{
+    outline: none;
+    border-radius: 10px;
+    width: 300px;
+    height: 25px;
+    background-color: rgba(255,255,255,0.5);
+    font-family: "Semibold";
+    font-size: 20px;
+    margin: 0;
+}
+.white_content label{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 25%;
+}
+.white_content h2{
+    color: white;
+    font-size: 45px;
+    text-align: center;
+}
+.white_content table{
+    margin-left: 23%;
+}
+
+.white_content .submit{
+    margin-top: 20px;
+    margin-left: 260px;
+    border-radius: 25px;
+    width: 100px;
+    height: 30px;
+    color: #FFFFFF;
+    background-color: rgba(9, 7, 35, 0.5);
+}
+.white_content .reset{
+    margin-top: 20px;
+    margin-left: 60px;
+    border-radius: 25px;
+    width: 100px;
+    height: 30px;
+    color: #FFFFFF;
+    background-color: rgba(52, 107, 105, 0.5);
+}
+
+.reset:hover{
+    background-color: rgba(87, 80, 107, 0.5);
+}
+.submit:hover {
+    background-color: rgba(87, 80, 107, 0.5);
+}
+.xueyuan{
+    height: 25px;
+    border-radius: 10px;
+    background-color: rgba(255,255,255,0.5);
+    font-family: "Semibold";
+}
+

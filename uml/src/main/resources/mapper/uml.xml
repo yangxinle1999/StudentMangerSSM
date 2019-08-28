@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.dao.uml">
+    <insert id="studentInsert" parameterType="com.entity.student">
+        insert into student(s_name,s_password,s_num,s_sex,s_xueYuan,s_nianJi,s_banJi,s_touxiang) values (#{sName},#{sPassword},#{sNum},#{sSex},#{sXueYuan},#{sNianJi},#{sBanJi},#{sTouxiang})
+    </insert>
+    <insert id="teacherInsert" parameterType="com.entity.teacher">
+        insert into teacher(t_name,t_gongHao,t_password,t_yuanXi,t_sex,t_shouJiHao,t_touxiang) values (#{tName},#{tGongHao},#{tPassword},#{tYuanXi},#{tSex},#{tShouJiHao},#{tTouxiang})
+    </insert>
+    <insert id="guanLiYuanInsert" parameterType="com.entity.guanliyuan">
+        insert into guanliyuan(g_name,g_password,g_gongHao,g_lianXiFangShi,g_touxiang) values (#{gName},#{gPassword},#{gGongHao},#{gLianXiFangShi},#{gTouxiang})
+    </insert>
+    <select id="selectStudent" parameterType="com.entity.student" resultType="com.entity.student">
+        select * from student where s_num =#{sNum} and s_password =#{sPassword}
+    </select>
+    <select id="selectTeacher" resultType="com.entity.teacher" parameterType="com.entity.teacher">
+        select * from teacher where t_gongHao =#{tGongHao} and t_password =#{tPassword}
+    </select>
+    <select id="selectGuanLiYuan" parameterType="com.entity.guanliyuan" resultType="com.entity.guanliyuan">
+        select * from guanliyuan where g_gongHao =#{gGongHao} and g_password =#{gPassword}
+    </select>
+    <update id="ChangePassword">
+        update student set s_password=#{pass} where s_num=#{num}
+    </update>
+    <select id="selectStudentByNum" resultType="com.entity.student">
+        select * from student where s_num =#{num}
+    </select>
+    <insert id="insertJiaFenXiang" >
+        insert into jiafenxiang(j_num,j_jiaFenXiang,j_time) values (#{num},#{jiafen},now())
+    </insert>
+    <select id="jiafenxiangselect" resultType="com.entity.jiafenxiang">
+        select * from jiafenxiang where j_num=#{num}
+    </select>
+    <update id="ChangePassword1">
+        update teacher set t_password=#{pass} where t_gongHao=#{num}
+    </update>
+    <select id="selectTeacherByNum" resultType="com.entity.teacher">
+        select * from teacher where t_gongHao =#{num}
+    </select>
+    <select id="selectGuanliyuanByNum" resultType="com.entity.guanliyuan">
+        select * from guanliyuan where g_gongHao =#{num}
+    </select>
+    <update id="ChangePassword2">
+         update guanliyuan set g_password=#{pass} where g_gongHao=#{num}
+    </update>
+    <select id="selectJianFenXiang" resultType="com.entity.jiafenxiang">
+        select * from jiafenxiang
+    </select>
+    <insert id="addCourse" parameterType="com.entity.course">
+        insert into course (s_name,s_num,c_course,c_time) values (#{sName},#{sNum},#{cCourse},#{cTime});
+    </insert>
+    <select id="selectCourse" parameterType="com.entity.course" resultType="com.entity.course">
+        select * from course where s_num=#{sNum}
+    </select>
+    <select id="selectCourse1" resultType="com.entity.course">
+        select * from course
+    </select>
+    <select id="xuanKeSelect" resultType="com.entity.xuanke" parameterType="com.entity.xuanke">
+        select * from xuanke where s_name=#{sName} and t_name=#{tName} and c_name=#{cName} and c_time=#{cTime}
+    </select>
+    <insert id="xuanKeInsert" parameterType="com.entity.xuanke">
+        insert into xuanke(s_name,t_name,c_name,c_time) values (#{sName},#{tName},#{cName},#{cTime})
+    </insert>
+    <select id="selectXuanKe" resultType="com.entity.xuanke">
+        select * from xuanke where t_name=#{name}
+    </select>
+
+
+</mapper>
