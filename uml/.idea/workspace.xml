@@ -6,239 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="957d97f2-aefd-4dcf-a186-dc8b041ef3f9" name="Default Changelist" comment="将学生管理系统推送到git">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/pc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/com/contextPath/PictureCheckCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/com/controller/umlController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/com/dao/uml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/com/entity/course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/com/entity/guanliyuan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/com/entity/jiafenxiang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/com/entity/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/com/entity/teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/com/entity/xuanke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/com/service/Impl/umlServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/com/service/umlService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/com/tuPianShangChuan/wenJianShangChuan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/uml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatisconfiger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jQuery/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jQuery/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jQuery/jquery-1.12.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jQuery/swiper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/administrator/adminZhuCe.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/administrator/administrator.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/administrator/dengLuSuc.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/administrator/pasChangeCg.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/administrator/pasChangeSb.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/administrator/shenheJiaFengXiang.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/changePassword.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/changePassword1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/changePassword2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/course/addCourseSc.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/css/combo.select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/css/mystyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/css/zhuce.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/dengLuFail.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/denglu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/fail.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/font/Semibold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/font/正文宋楷.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/frameMain.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/img/blue.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/img/green.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/img/horse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/img/next1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/img/prev1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/img/timg (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/img/tubiao.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/js/easeljs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/js/formTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/js/jquery-1.11.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/js/jquery-1.12.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/js/jquery.combo.select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/js/myjavascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/SjiaFenXiang.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/basicStudent.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/course.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/denglusuc.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/jiaFenSb.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/jiaFenSc.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/jiaFenXiang.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/pasChangeCg.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/pasChangeSb.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/student/studentSubmit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/suc.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/addCourse.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/basicTeacher.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/course.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/dengLuSuc.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/pasChangeCg.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/pasChangeSb.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/teacher.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/teacher/teacherSubmit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/contextPath/PictureCheckCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/controller/umlController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dao/uml.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/entity/course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/entity/guanliyuan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/entity/jiafenxiang.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/entity/student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/entity/teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/entity/xuanke.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/service/Impl/umlServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/service/umlService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tuPianShangChuan/wenJianShangChuan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/uml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mybatisconfiger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/spring-mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/contextPath/PictureCheckCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/controller/umlController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/dao/uml.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/entity/course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/entity/guanliyuan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/entity/jiafenxiang.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/entity/student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/entity/teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/entity/xuanke.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/service/Impl/umlServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/service/umlService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/com/tuPianShangChuan/wenJianShangChuan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/mapper/uml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/mybatisconfiger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/spring/spring-mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/classes/spring/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/activation-1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/aspectjrt-1.8.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/c3p0-0.9.5-pre8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/commons-lang-2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/gson-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.5.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.5.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/json-lib-2.3-jdk15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jsp-api-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jsqlparser-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/mail-1.4.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/mchange-commons-java-0.2.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.4.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.35.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/pagehelper-5.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/poi-3.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.21.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.7.21.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.3.10.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-test-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.1.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jQuery/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jQuery/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jQuery/jquery-1.12.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jQuery/swiper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/administrator/adminZhuCe.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/administrator/administrator.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/administrator/dengLuSuc.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/administrator/pasChangeCg.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/administrator/pasChangeSb.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/administrator/shenheJiaFengXiang.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/changePassword.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/changePassword1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/changePassword2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/course/addCourseSc.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/css/combo.select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/css/mystyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/css/zhuce.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/dengLuFail.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/denglu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/fail.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/font/Semibold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/font/正文宋楷.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/frameMain.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/img/blue.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/img/green.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/img/horse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/img/next1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/img/prev1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/img/timg (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/img/tubiao.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/js/easeljs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/js/formTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/js/jquery-1.11.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/js/jquery-1.12.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/js/jquery.combo.select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/js/myjavascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/SjiaFenXiang.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/basicStudent.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/course.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/denglusuc.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/jiaFenSb.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/jiaFenSc.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/jiaFenXiang.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/pasChangeCg.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/pasChangeSb.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/student/studentSubmit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/suc.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/addCourse.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/basicTeacher.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/course.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/dengLuSuc.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/pasChangeCg.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/pasChangeSb.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/teacher.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/uml-1.0-SNAPSHOT/jsp/teacher/teacherSubmit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml.iml" afterDir="false" />
+    <list default="true" id="957d97f2-aefd-4dcf-a186-dc8b041ef3f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -250,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/Java/com/dao/uml.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+            <state relative-caret-position="960">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -262,16 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/css/mystyle.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="520">
-              <caret line="135" column="11" lean-forward="true" selection-start-line="135" selection-start-column="11" selection-end-line="135" selection-end-column="11" />
+              <caret line="135" column="11" selection-start-line="135" selection-start-column="11" selection-end-line="135" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -391,7 +155,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="951" />
     <option name="height" value="1040" />
@@ -469,7 +233,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566985390185" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566989088850" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -616,12 +380,20 @@
       <workItem from="1566955204428" duration="647000" />
       <workItem from="1566982982373" duration="732000" />
       <workItem from="1566983850241" duration="151000" />
-      <workItem from="1566984137878" duration="1199000" />
+      <workItem from="1566984137878" duration="3425000" />
     </task>
+    <task id="LOCAL-00001" summary="将学生管理系统推送到git">
+      <created>1566985392054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566985392054</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78549000" />
+    <option name="totallyTimeSpent" value="80775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -636,17 +408,17 @@
       <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.26226014" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32925472" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50053304" side_tool="true" weight="0.54333335" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
-      <window_info active="true" anchor="bottom" id="Messages" order="5" visible="true" weight="0.23136818" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.23136818" />
       <window_info anchor="bottom" id="Database Changes" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Application Servers" order="8" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Find" order="10" />
-      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49946696" weight="0.27030033" />
+      <window_info active="true" anchor="bottom" id="Run" order="11" sideWeight="0.49946696" visible="true" weight="0.27030033" />
       <window_info anchor="bottom" id="Debug" order="12" weight="0.24777777" />
       <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
@@ -1064,7 +836,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
-          <caret line="135" column="11" lean-forward="true" selection-start-line="135" selection-start-column="11" selection-end-line="135" selection-end-column="11" />
+          <caret line="135" column="11" selection-start-line="135" selection-start-column="11" selection-end-line="135" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1081,18 +853,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/css/mystyle.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Java/com/dao/uml.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        <state relative-caret-position="960">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/css/mystyle.css">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
